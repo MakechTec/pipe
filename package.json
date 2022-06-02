@@ -1,0 +1,33 @@
+{
+  "name": "@makechtec/pipe",
+  "version": "1.0.0",
+  "description": "pipe pattern",
+  "main": "Pipe.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeldomp49/pipe.git"
+  },
+  "keywords": [
+    "pipe",
+    "javascript",
+    "design",
+    "pattern"
+  ],
+  "author": "makechtec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeldomp49/pipe/issues"
+  },
+  "homepage": "https://github.com/angeldomp49/pipe#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.17.12",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-loader": "^8.2.5"
+  }
+}
