@@ -1,7 +1,5 @@
-import Action from "./Action.mjs";
 
-
-export default class Pipe{
+export class Pipe{
     
     actions = [];
     mutable = null;
@@ -27,3 +25,4 @@ export default class Pipe{
     }
 
 }
+

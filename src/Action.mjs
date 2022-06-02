@@ -1,6 +1,6 @@
 
 
-export default class Action{
+export class Action{
 
     action = () => {};
     args = [];
@@ -11,3 +11,4 @@ export default class Action{
     }
         
 }
+
