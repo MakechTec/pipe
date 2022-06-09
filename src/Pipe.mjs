@@ -19,9 +19,12 @@ export class Pipe{
     }
 
     execActions(){
+        let result = this.mutable;
         this.actions.forEach( (action) => {
-            this.mutable = action.action(this.mutable, ...action.args);
+            result = action.action(this.mutable, ...action.args);
         } );
+
+        return result;
     }
 
 }
