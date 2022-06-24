@@ -1,6 +1,6 @@
 {
   "name": "@makechtec/pipe",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "pipe pattern",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angeldomp49/pipe.git"
+    "url": "git+https://github.com/MakechTec/pipe.git"
   },
   "keywords": [
     "pipe",
@@ -19,9 +19,9 @@
   "author": "makechtec",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angeldomp49/pipe/issues"
+    "url": "https://github.com/MakechTec/pipe/issues"
   },
-  "homepage": "https://github.com/angeldomp49/pipe#readme",
+  "homepage": "https://github.com/MakechTec/pipe#readme",
   "devDependencies": {
     "@babel/core": "^7.18.2",
     "@babel/plugin-proposal-class-properties": "^7.17.12",
