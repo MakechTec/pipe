@@ -1,6 +1,6 @@
 {
   "name": "@makechtec/pipe",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "pipe pattern",
   "main": "index.js",
   "scripts": {
